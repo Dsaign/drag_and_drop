@@ -1,2 +1,4 @@
-# drag_and_drop
-Easy Swap Drag&amp;Drop made with JQuery
+# Drag&Drop
+Easy Swap Drag&amp;Drop made with JQuery.
+
+Enjoy.
